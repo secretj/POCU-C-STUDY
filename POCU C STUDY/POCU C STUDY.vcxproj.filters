@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c의자료형.cpp">
+    <ClCompile Include="c의 bool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
